@@ -19,9 +19,9 @@ class MyDocument extends Document {
           <meta charSet='utf-8' />
           <meta name='application-name' content='Sydney News' />
           <meta name='twitter:card' content='summary' />
-          <meta name='twitter:creator' content='@psimondodson' />
+          <meta name='twitter:creator' content='@simondodson' />
           <meta property='og:type' content='website' />
-          <meta name='author' content='sydneysnews' />
+      
           <meta property='og:site_name' content='Sydney News' />
           <meta name='theme-color' content='#d03801' />
           <meta
