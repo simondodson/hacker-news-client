@@ -298,7 +298,7 @@ export default function App({ children }: { children: ReactNode }) {
       <footer className='fixed bottom-0 z-10 w-screen bg-white border-t'>
         <div className='max-w-screen-xl px-4 py-4 mx-auto sm:px-6 md:flex md:items-center md:justify-between lg:px-8'>
           <div className='flex justify-center space-x-6 md:order-2'>
-            <a
+         <!--   <a
               href='https://blog.bhanuteja.dev'
               className='relative text-gray-400 hover:text-gray-500'
               target='_blank'
@@ -354,7 +354,7 @@ export default function App({ children }: { children: ReactNode }) {
               </svg>
             </a>
             <a
-              href='https://twitter.com/pbteja1998'
+              href='https://twitter.com/simondodson'
               className='text-gray-400 hover:text-gray-500'
               target='_blank'
               rel='noopener noreferrer nofollow'
@@ -389,27 +389,12 @@ export default function App({ children }: { children: ReactNode }) {
                 />
               </svg>
             </a>
-            <a
-              href='https://github.com/pbteja1998'
-              className='text-gray-400 hover:text-gray-500'
-              target='_blank'
-              rel='noopener noreferrer nofollow'
-            >
-              <span className='sr-only'>LinkedIn</span>
-              <svg
-                style={{ width: '1.2rem' }}
-                xmlns='http://www.w3.org/2000/svg'
-                viewBox='0 0 24 24'
-                fill='currentColor'
-              >
-                <path d='M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z' />
-              </svg>
-            </a>
+        
           </div>
           <div className='mt-2 md:mt-0 md:order-1'>
             <p className='text-base leading-6 prose text-center text-gray-400'>
-              &copy; 2020 Made with 🧡 by{' '}
-              <a href='https://blog.bhanuteja.dev'>Bhanu Teja</a>.
+              &copy; 2020 Made with 🧡 by{'sydneysnews'}
+              <a href='http://goodpizza.com.au'>goodpizza.com.au</a>.
             </p>
           </div>
         </div>
