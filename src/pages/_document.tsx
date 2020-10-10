@@ -17,29 +17,29 @@ class MyDocument extends Document {
       <Html lang='en'>
         <Head>
           <meta charSet='utf-8' />
-          <meta name='application-name' content='Hacker News' />
+          <meta name='application-name' content='Sydney News' />
           <meta name='twitter:card' content='summary' />
-          <meta name='twitter:creator' content='@pbteja1998' />
+          <meta name='twitter:creator' content='@psimondodson' />
           <meta property='og:type' content='website' />
-          <meta name='author' content='Bhanu Teja P' />
-          <meta property='og:site_name' content='Hacker News' />
+          <meta name='author' content='sydneysnews' />
+          <meta property='og:site_name' content='Sydney News' />
           <meta name='theme-color' content='#d03801' />
           <meta
             name='description'
-            content='A Hacker News client to view stories from news.ycombinator.com.'
+            content='A Sydney News client to view stories from news.ycombinator.com.'
           />
-          <meta property='og:title' content='Hacker News' />
+          <meta property='og:title' content='Sydney News' />
           <meta
             property='og:description'
-            content='A Hacker News client to view stories from news.ycombinator.com.'
+            content='A Sydney News client to view stories from news.ycombinator.com.'
           />
-          <meta property='og:url' content='https://hn.bhanuteja.dev' />
-          <meta property='twitter:title' content='Hacker News' />
+          <meta property='og:url' content='https://twitter.com/simondodson' />
+          <meta property='twitter:title' content='Sydney News' />
           <meta
             property='twitter:description'
-            content='A Hacker News client to view stories from news.ycombinator.com.'
+            content='A Sydney News client to view stories from news.ycombinator.com.'
           />
-          <meta property='twitter:url' content='https://hn.bhanuteja.dev' />
+          <meta property='twitter:url' content='https://twitter.com/simondodson' />
           <meta property='og:image' content='/preview.png' />
           <meta property='twitter:image' content='/preview.png' />
           <link rel='shortcut icon' href='/favicon.ico' />
