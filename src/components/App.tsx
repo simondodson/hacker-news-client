@@ -393,7 +393,7 @@ export default function App({ children }: { children: ReactNode }) {
           </div>
           <div className='mt-2 md:mt-0 md:order-1'>
             <p className='text-base leading-6 prose text-center text-gray-400'>
-              &copy; 2020 Made with 🧡 by{'sydneysnews'}
+              &copy; 2020 Made with 🧡 by{''}
               <a href='http://goodpizza.com.au'>goodpizza.com.au</a>.
             </p>
           </div>
