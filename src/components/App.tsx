@@ -35,13 +35,13 @@ export default function App({ children }: { children: ReactNode }) {
                   >
                     <img
                       className='block w-auto h-8 lg:hidden'
-                      src='data:image/png;base64,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'
+                      src='https://brisbanesnews.com.au/wp-content/uploads/2020/01/syd-150x150.png'
                       alt='sydneys news'
                     />
                     <img
                       className='hidden w-auto h-8 lg:block'
                       src='https://brisbanesnews.com.au/wp-content/uploads/2020/01/syd-150x150.png'
-                      alt='Y Combinator logo'
+                      alt='sydneys news'
                     />
                   </a>
                 </div>
