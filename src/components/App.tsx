@@ -298,8 +298,8 @@ export default function App({ children }: { children: ReactNode }) {
       <footer className='fixed bottom-0 z-10 w-screen bg-white border-t'>
         <div className='max-w-screen-xl px-4 py-4 mx-auto sm:px-6 md:flex md:items-center md:justify-between lg:px-8'>
           <div className='flex justify-center space-x-6 md:order-2'>
-         <!--   <a
-              href='https://blog.bhanuteja.dev'
+      <a
+              href='https://www1.com.au'
               className='relative text-gray-400 hover:text-gray-500'
               target='_blank'
               style={{ bottom: '0.19rem' }}
@@ -311,7 +311,7 @@ export default function App({ children }: { children: ReactNode }) {
               />
             </a>
             <a
-              href='https://bhanuteja.dev'
+              href='https://www1.com.au'
               className='text-gray-400 hover:text-gray-500'
               target='_blank'
             >
