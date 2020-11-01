@@ -298,8 +298,7 @@ export default function App({ children }: { children: ReactNode }) {
       <footer className='fixed bottom-0 z-10 w-screen bg-white border-t'>
         <div className='max-w-screen-xl px-4 py-4 mx-auto sm:px-6 md:flex md:items-center md:justify-between lg:px-8'>
           <div className='flex justify-center space-x-6 md:order-2'>
-      <a
-              href='https://www1.com.au'
+      <a href='https://www1.com.au'
               className='relative text-gray-400 hover:text-gray-500'
               target='_blank'
               style={{ bottom: '0.19rem' }}
@@ -311,13 +310,6 @@ export default function App({ children }: { children: ReactNode }) {
               target='_blank'
             >
       
-                <path
-                  strokeLinecap='round'
-                  strokeLinejoin='round'
-                  strokeWidth={2}
-                  d='M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9'
-                />
-              </svg>
             </a>
   
             <a
